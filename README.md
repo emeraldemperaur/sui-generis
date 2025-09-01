@@ -10,15 +10,12 @@ Designed and developed to be a rapid deployment eCommerce marketplace platform o
 
 #### System Requirements
 ```
-<ol>
-<li>NodeJS 20+</li>
-<li>≥ 16GB RAM</li>
-<li>Hard Drive: ≥ 5GB of available storage</li>
-<li>Docker Desktop (for local container deployment)</li>
-<li>Amazon Web Services</li>
-</ol>
+⦿ NodeJS 20+
+⦿ ≥ 16GB RAM
+⦿ Hard Drive: ≥ 5GB of available storage
+⦿ Docker Desktop (for local container deployment)
+⦿ Amazon Web Services
 ```
-
 
 ## System Design & Architecture
 
