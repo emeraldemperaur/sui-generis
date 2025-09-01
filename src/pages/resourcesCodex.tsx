@@ -1,3 +1,5 @@
+import '../styles/resourcesCodex.css'
+
 const ResourcesCodex = () => {
     return(
         <>

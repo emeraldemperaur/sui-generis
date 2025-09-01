@@ -1,3 +1,5 @@
+import '../styles/aboutCodex.css'
+
 const AboutCodex = () => {
     return(
         <>

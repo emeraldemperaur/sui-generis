@@ -1,3 +1,5 @@
+import '../styles/featuresCodex.css'
+
 const FeaturesCodex = () => {
     return(
         <>

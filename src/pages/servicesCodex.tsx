@@ -1,3 +1,5 @@
+import '../styles/servicesCodex.css'
+
 const ServicesCodex = () => {
     return(
         <>

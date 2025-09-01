@@ -1,3 +1,5 @@
+import '../styles/marketsCodex.css'
+
 const MarketsCodex = () => {
     return(
         <>

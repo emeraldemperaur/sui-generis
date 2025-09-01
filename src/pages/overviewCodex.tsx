@@ -1,3 +1,5 @@
+import '../styles/overviewCodex.css'
+
 const OverviewCodex = () => {
     return(
         <>
