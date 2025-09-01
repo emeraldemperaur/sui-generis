@@ -125,5 +125,5 @@ fetch('http:localhost:6901/notifications-health');
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-## References
+## 📚 References
 <a href="https://github.com/emeraldemperaur/treatise-on-distributed-microservices" target="_blank">Treatise on Distributed Microservices</a>
