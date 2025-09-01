@@ -125,3 +125,6 @@ fetch('http:localhost:6901/notifications-health');
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+## References
+<a href="https://github.com/emeraldemperaur/treatise-on-distributed-microservices" target="_blank">Treatise on Distributed Microservices</a>
