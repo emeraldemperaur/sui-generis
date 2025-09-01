@@ -8,7 +8,8 @@
 Designed and developed to be a rapid deployment eCommerce marketplace platform of its own kind for administrator merchants and their approved affiliates to proffer products/services to target customers with extensible core functionality features.
 </p>
 
-### System Requirements
+#### System Requirements
+```
 <ol>
 <li>NodeJS 20+</li>
 <li>≥ 16GB RAM</li>
@@ -16,6 +17,7 @@ Designed and developed to be a rapid deployment eCommerce marketplace platform o
 <li>Docker Desktop (for local container deployment)</li>
 <li>Amazon Web Services</li>
 </ol>
+```s
 
 
 ## System Design & Architecture
