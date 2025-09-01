@@ -17,7 +17,7 @@ Designed and developed to be a rapid deployment eCommerce marketplace platform o
 <li>Docker Desktop (for local container deployment)</li>
 <li>Amazon Web Services</li>
 </ol>
-```s
+```
 
 
 ## System Design & Architecture
