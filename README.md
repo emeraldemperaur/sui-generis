@@ -21,7 +21,7 @@ Designed and developed to be a rapid deployment eCommerce marketplace platform o
 
 ### Microservice Architecture 
 ** Private Repositories (Access available upon request) 🔐
-<ul>
+<ol>
 <li><a href="https://github.com/emeraldemperaur/sui-generis-apigateway"target="_blank">API Gateway Microservice</a></li>
 <li><a href="https://github.com/emeraldemperaur/sui-generis-notification" target="_blank">Notification Microservice</a></li>
 <li><a href="https://github.com/emeraldemperaur/sui-generis-authentication"target="_blank">Authentication Microservice</a></li>
@@ -31,7 +31,7 @@ Designed and developed to be a rapid deployment eCommerce marketplace platform o
 <li><a href="https://github.com/emeraldemperaur/sui-generis-reviews"target="_blank">Reviews Microservice</a></li>
 <li><a href="https://github.com/emeraldemperaur/sui-generis-chat"target="_blank">Chat Microservice</a></li>
 <li><a href="https://github.com/emeraldemperaur/sui-generis-client"target="_blank">ClientUI Microservice</a></li>
-</ul>
+</ol>
 
 ### Services Synopsis
 #### API Gateway
