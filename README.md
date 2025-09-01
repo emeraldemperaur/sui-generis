@@ -117,7 +117,7 @@ fetch('http:localhost:6901/notifications-health');
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Paystack](https://img.shields.io/badge/Paystack-1E5DC6?style=for-the-badge&logoColor=white)
 ![Flutterwave](https://img.shields.io/badge/Flutterwave-1F75FE?style=for-the-badge&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### ✅ Testing & QA Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
